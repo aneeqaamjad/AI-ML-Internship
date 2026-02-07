@@ -5,7 +5,7 @@ Each task focuses on a core concept of Machine Learning, Deep Learning, or AI ap
 
 ---
 
-## 📌 Task 1: Data Preprocessing & Exploration
+##  Task 1: Data Preprocessing & Exploration
 **Objective:**  
 Clean, explore, and understand a dataset before applying ML models.
 
@@ -22,7 +22,7 @@ Clean, explore, and understand a dataset before applying ML models.
 
 ---
 
-## 📌 Task 2: Classification Model
+##  Task 2: Classification Model
 **Objective:**  
 Build a classification model and evaluate its performance.
 
@@ -38,7 +38,7 @@ Build a classification model and evaluate its performance.
 
 ---
 
-## 📌 Task 3: Regression Model
+##  Task 3: Regression Model
 **Objective:**  
 Predict continuous values using regression.
 
@@ -55,7 +55,7 @@ Predict continuous values using regression.
 
 ---
 
-## 📌 Task 4: Deep Learning Model
+##  Task 4: Deep Learning Model
 **Objective:**  
 Build a basic neural network for prediction/classification.
 
@@ -71,7 +71,7 @@ Build a basic neural network for prediction/classification.
 
 ---
 
-## 📌 Task 5: Mental Health Support Chatbot (Fine-Tuned LLM)
+##  Task 5: Mental Health Support Chatbot (Fine-Tuned LLM)
 **Objective:**  
 Build an empathetic chatbot for emotional and mental health support.
 
@@ -94,7 +94,7 @@ Build an empathetic chatbot for emotional and mental health support.
 
 ---
 
-## 📌 Task 6: Model Evaluation & Error Handling
+##  Task 6: Model Evaluation & Error Handling
 **Objective:**  
 Analyze errors and improve model robustness.
 
@@ -110,7 +110,7 @@ Analyze errors and improve model robustness.
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
